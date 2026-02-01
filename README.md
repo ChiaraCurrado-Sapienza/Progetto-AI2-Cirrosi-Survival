@@ -1,7 +1,7 @@
 # Analisi Predittiva della Sopravvivenza: Cirrhosis Patient Survival
 
 ## Autore
-- **Chiara Currado** - Matricola: 2091728
+**Chiara Currado** Matricola: 2091728
 
 ## Descrizione del Progetto
 Questo progetto si occupa dello sviluppo di un modello di apprendimento supervisionato per la **classificazione binaria** applicata all'ambito medico. L'obiettivo principale è predire la mortalità dei pazienti affetti da **Cirrosi Biliare Primitiva**, basandosi su un dataset reale fornito dalla Mayo Clinic.
