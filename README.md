@@ -1,5 +1,8 @@
 # Analisi Predittiva della Sopravvivenza: Cirrhosis Patient Survival
 
+## Autore
+- **Chiara Currado** - Matricola: 2091728
+
 ## Descrizione del Progetto
 Questo progetto si occupa dello sviluppo di un modello di apprendimento supervisionato per la **classificazione binaria** applicata all'ambito medico. L'obiettivo principale è predire la mortalità dei pazienti affetti da **Cirrosi Biliare Primitiva**, basandosi su un dataset reale fornito dalla Mayo Clinic.
 
@@ -24,6 +27,10 @@ Il progetto è stato sviluppato in Python utilizzando le seguenti librerie:
 ## Come eseguire il codice
 1. Scaricare il repository contenente il file del codice (notebook `.ipynb` o script `.py`).
 2. Assicurarsi di disporre del file `cirrhosis.csv` nella stessa directory del codice.
-3. Installare le dipendenze necessarie:
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn
+3. Eseguire le celle del notebook in ordine sequenziale.
+4. I risultati del modello (Accuracy, AUC-ROC) e i grafici di Fairness verranno generati automaticamente durante l'esecuzione.
+
+## Struttura del Repository
+- `README.md`: Presentazione e istruzioni (questo file).
+- `Progetto_Cirrosi.ipynb`: Notebook principale con l'intero processo di analisi e modeling.
+- `cirrhosis.csv`: Dataset originale.
